@@ -35,3 +35,7 @@ function sum(...nums) {
 
 	return result;
 }
+
+let x = 8;
+let y = 9;
+// how do we swap the values of two variables using array destructing
